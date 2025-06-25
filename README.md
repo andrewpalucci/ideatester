@@ -4,7 +4,7 @@ This repo is for testing out and playing with some new skills before I implement
 
 This README file also acts as a place for me to store all of my resources that I use to learn and explore!
 
-first-chrome-extension
+##first-chrome-extension
 
 Purpose: My first time creating a chrome extension!
 
